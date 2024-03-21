@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<HTML>
+    <head>
+        <title>Ganesha Operation</title>
+    </head>
+    <body>
+        <header id = "header">
+            <img src = "logo go.webp" width="20%" height="20%" alt ="logo"/>
+            <ul id="menu-utama">
+                <li><a href="https://www.ganeshaoperation.com/">Home</a></li>
+                <li><a href="https://ganeshaoperationexpert.com/auth/signin">Daftar</a></li>
+                <li><a href="https://www.youtube.com/@GaneshaOperationOfficial/videos">Video</a></li>
+            </ul>
+            <form>
+                <input type="text" name="search"/>
+            </form>
+        </header>
+
+        <hr>
+    <section id="daftar-artikel">
+        <article>
+            <img src = "foto go.webp" width="30%" height="30%" alt ="gambar artikel"/>
+            <h1> Kenapa Pilih Ganesha Operation</h1>
+            <b> September 17,2018</b> <b>Views : 342.987</b>
+            <p> Ganesha Operation adalah bimbingan belajar tatap muka berbasis teknologi online yang telah berhasil mengantarkan 47.000 lebih kelulusan siswa ke PTN dan PT Kedinasan pada tahun 2023 dan angka tersebut terus meningkat setiap 
+                tahunnya. Kami telah meraih 2 penghargaan MURI yaitu sebagai Bimbel Terbaik dengan Kelulusan Siswa Terbanyak ke PTN dan PT Kedinasan se-Indonesia, dan Bimbel Terbesar dengan Lokasi Terbanyak se-Indonesia yang dikelola 
+                secara terpusat (no franchise). Ganesha Operation berdiri sejak 2 Mei 1984, dan memiliki visi untuk menjadi bimbingan belajar terbaik dan terbesar se-Indonesia.</p>
+            <a href="https://text-id.123dok.com/document/dy4dd1ryn-sejarah-umum-bimbingan-belajar-ganesha-operation.html">History Ganesha Operation</a>
+                <hr>
+        </article>
+
+        <article>
+            <img src="banner go.png" alt="Gambar Artikel" width="300" height="200" />
+            <h1>12 Alasan Kenapa Pilih Ganesha Operation</h1>
+            <b>April 1,2023</b> <b>Views : 348.421</b>
+            <p>1. Pengajar Berkualitas dan The King</p>
+            <p>2. Tutorial Service Time</p>
+            <p>3. Try Out dan Evaluasi Prestasi Belajar</p>
+            <p>4. Psikotes</p>
+            <p>5. Buku Penunjang Belajar Lengkap dengan Latihan Soal</p>
+            <p>6. Meeting On Maximizing Motivation</p>
+            <p>7. Evaluasi, Remedial, and Enrichment</p>
+            <p>8. GO Kreasi</p>
+            <p>9. Software SNBP</p>
+            <p>10. GO Assesment</p>
+            <p>11. Parents Meeting</p>
+            <p>12. Tes Modalitas</p>
+
+            <a href="https://youtu.be/oji5fEp9UNk?si=cqnpbS2txLoYw-7o">Watch This</a>
+        </article>
+
+        <hr>
+        
+        <article>
+            <img src="testimoni1.png" alt="testimoni" width="20%" height="20%"/>
+            <img src="testimoni2.png" alt="testimoni" width="20%" height="20%"/>
+            <h1> SNBP DAN SNBT BERUBAH LAGI!</h1>
+            <b>Juli 14,2023</b> <b>Views : 2.640</b>
+            <b>Mei 13,2023</b> <b>Views : 526</b>
+            <p>Bagaimana testimoni dari kakak-kakak yang pernah belajar di ganesha operation?</p>
+            <p>Nabila Amalia Wahyuni (FK-UI)
+                <br>
+                "GO sangat membantu saya saat mempersiapkan SNBT karena jika ada materi yang tidak dipahami saya bisa menanyakankepada pengajar saat TST, juga berkat adanya konsultasi TOBK saya semakin termotivasi dan terdukung untuk 
+                bisa lolos ke Jurusan dan PTN impian."
+            </p>
+            <p>Pangestu Zahid (FTTM-ITB)
+                <br>
+                "Seru banget! Pengajarnya asyik sering becanda juga, tapi materinya tetap bisa masuk. Selain itu aku juga suka banget sama fasilitas Buku KODING karena enak banget ada materinya, ada latihan soal per materi, dan soalnya pun 
+                mirip banget sama UTBK, pokoknya jadi makin gampang dan bikin paham"
+            </p>
+            <a href="https://youtu.be/m5_-zj-ILbc?si=bMRMWFTb-Hm8YKIJ">FK-UI</a>
+            <br>
+            <a href="https://youtu.be/rT73Z1IjQd4?si=UxLR1Fp0H5hTgYEI">FTTM-ITB</a>
+        </article>
+
+    </section>
+    
+    <aside id ="sidebar">
+        <h2>WHY US?</h2>
+        <p>Ganesha Operation berdiri sejak 2 Mei 1984 dan memiliki visi menjadi bimbingan belajar terbaik dan terbesar se-Indonesia. Ganesha Operation adalah bimbingan belajar yang sukses mengantarkan 47.000++ siswa ke PTN dan PT 
+            Kedinasan. Kami merupakan bimbingan belajar tatap muka berbasis teknologi yang berhasil meraih 2 penghargaan MURI sebagai Bimbel Terbaik dengan kelulusan siswa terbanyak ke PTN dan PT Kedinasan se-Indonesia, dan Bimbel 
+            Terbesar dengan lokasi terbanyak se-Indonesia yang dikelola secara pusat (no franchise).
+
+            
+        <h2>Artikel berdasarkan kategori</h2>
+        <ul>
+            <li><a href="https://ganeshaoperation.com/">Ganesha Operation</a></li>
+            <li><a href="https://ganeshaoperation.com/penjelasan">Alasan belajar di Ganesha Operation</a></li>
+            <li><a href="https://ganeshaoperation.com/gokreasi/">Aplikasi Ganesha Operation</a></li>
+            <li><a href="https://ganeshaoperationexpert.com/#testimoni-siswa/">Testimoni Ganesha Operation</a></li>
+        </ul>
+    </aside>
+
+    <footer id="footer">
+        <p>Ganesha Operation.net copyright 2024 by Ganesha Operation, Fauzan</p>
+
+    </footer>
+    </body>
+</HTML>
